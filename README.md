@@ -1,4 +1,4 @@
-# Extreme precipitation events in the Mediterranean: Spatiotemporal characteristics and connection to large-scale atmospheric flow patterns
+# Scripts for "Extreme precipitation events in the Mediterranean: Spatiotemporal characteristics and connection to large-scale atmospheric flow patterns"
 
 This repository reproduces the analysis and figures presented in ["Extreme precipitation events in the Mediterranean: Spatiotemporal characteristics and connection to large-scale atmospheric flow patterns"](https://doi.org/10.1002/joc.6985) (Nikolaos Mastrantonas, Pedro Herrera-Lormendez, Linus Magnusson, Florian Pappenberger, Jörg Matschullat).
 
