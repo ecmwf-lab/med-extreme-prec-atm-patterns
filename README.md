@@ -1,6 +1,6 @@
 # Content
 
-This repository serves as the central point of ongoing research regarding the usefulness of the large-scale atmopsheric variability in the Mediterranean for forecasting extreme precipitation in the domain. [This short video](https://www.youtube.com/watch?v=idWnrXLg-Ao&ab_channel=CAFEClimateExtremesProject) presents a short summary of the motivation and followed methodology.  
+This repository serves as the central point of ongoing research regarding the usefulness of the large-scale atmospheric variability in the Mediterranean for forecasting extreme precipitation in the domain. [This short video](https://www.youtube.com/watch?v=idWnrXLg-Ao&ab_channel=CAFEClimateExtremesProject) presents a short summary of the motivation and followed methodology.  
 
 At the moment, the repository is structured in accordance with relevant publications on the topic. These publications explain in details the methodology and benefits of using large-scale proxies for providing skillful predictions of extreme precipitation at medium-/extended-range forecasts (some days and weeks in advance).
 
